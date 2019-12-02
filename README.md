@@ -1,1 +1,1 @@
-# my-first-flutter-app
+# my_app
